@@ -8,5 +8,6 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions
 
 public class Demo1 {
+  System.out.println("hi..how are you");
 
 }
